@@ -1,4 +1,3 @@
-
 ---
 title: Agenda Maker for Google Calendar
 description: Creates an agenda for a calendar event you create automatically
@@ -15,7 +14,7 @@ It's just too burdensome to create an agenda, but very easy to create a meeting.
 By simply adding "#agenda" to the description of your Google Calendar invite, an agenda will be created for your meeting, with a Google Docs reminder to fill it in.
 
 
-![demo](https://cdn.jsdelivr.net/gh/gsuitedevs/solutions@call-in-sick/call-in-sick/demo.pg)
+![demo](https://cdn.jsdelivr.net/gh/gsuitedevs)
 
 ## Technology highlights
 
